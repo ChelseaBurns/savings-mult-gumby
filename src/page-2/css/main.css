@@ -191,3 +191,27 @@ div.current-menu-item:hover > ul.phone-nav {
 div.current-menu-item ul div li a.linkColor {
 	color: white;
 }
+
+/***********Search-container**********/
+.search-container {
+  background-color: #E0FFD1;
+  border-radius: 50px;
+  padding: 20px;
+}
+
+.color {
+  color: #2e8a2e;
+}
+
+.search-container h5 {
+  text-align: center;
+}
+
+.search-container btn {
+  padding: 5px;
+  color: #E0FFD1;
+}
+
+.search-container hr {
+  border: 1px solid #00CC00;
+}
