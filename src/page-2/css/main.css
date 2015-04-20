@@ -193,18 +193,20 @@ div.current-menu-item ul div li a.linkColor {
 }
 
 /***********Search-container**********/
-.search-container {
+body div.container-color,
+body div.container-color p,
+body div.container-color h5{
   background-color: #E0FFD1;
+  color: #2e8a2e;
+}
+
+.container-space {
   border-radius: 50px;
   padding: 20px;
   margin-top: 20px;
 }
 
-.color {
-  color: #2e8a2e;
-}
-
-.search-container h5 {
+.container-color h5 {
   text-align: center;
 }
 
