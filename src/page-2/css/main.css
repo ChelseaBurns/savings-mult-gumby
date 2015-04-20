@@ -198,6 +198,7 @@ body div.container-color p,
 body div.container-color h5{
   background-color: #E0FFD1;
   color: #2e8a2e;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .container-space {
@@ -210,9 +211,8 @@ body div.container-color h5{
   text-align: center;
 }
 
-.search-container btn {
-  padding: 5px;
-  color: #E0FFD1;
+.search-container div.field div.btn {
+  color: #fff;
 }
 
 .search-container hr {
